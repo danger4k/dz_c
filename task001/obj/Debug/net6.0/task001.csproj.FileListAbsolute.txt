@@ -1,0 +1,15 @@
+/Users/danger4k/Downloads/Обучение/C#_task/task001/bin/Debug/net6.0/task001
+/Users/danger4k/Downloads/Обучение/C#_task/task001/bin/Debug/net6.0/task001.deps.json
+/Users/danger4k/Downloads/Обучение/C#_task/task001/bin/Debug/net6.0/task001.runtimeconfig.json
+/Users/danger4k/Downloads/Обучение/C#_task/task001/bin/Debug/net6.0/task001.dll
+/Users/danger4k/Downloads/Обучение/C#_task/task001/bin/Debug/net6.0/task001.pdb
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.csproj.AssemblyReference.cache
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.AssemblyInfoInputs.cache
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.AssemblyInfo.cs
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.csproj.CoreCompileInputs.cache
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.dll
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/refint/task001.dll
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.pdb
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/task001.genruntimeconfig.cache
+/Users/danger4k/Downloads/Обучение/C#_task/task001/obj/Debug/net6.0/ref/task001.dll
