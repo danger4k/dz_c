@@ -48,7 +48,7 @@ public class Answer
         else
         {
             // Здесь вы можете поменять значения для проверки кода
-            number = 64546;
+            number = 64536;
         }
 
         bool result = IsPalindrome(number);
