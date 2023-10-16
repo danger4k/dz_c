@@ -5,9 +5,9 @@
 32679 -> 6
 */
 
-int num = new Random().Next();
+// int num = new Random().Next();
 
-// int num = 10211;
+//int num = -1011;
 int number = 0;
 
 System.Console.WriteLine("Сегенерировано трехзначное число: " + num);
