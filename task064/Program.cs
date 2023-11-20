@@ -6,6 +6,11 @@ N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 Console.Clear();
 
+Console.WriteLine("Введите значение N: ");
+int n = int.Parse(Console.ReadLine());
+
+Num(n);
+
 void Num(int max)
 {
     if (max <= 0)
@@ -18,4 +23,3 @@ void Num(int max)
         Num(max - 1);
     }
 }
-Num(6);
